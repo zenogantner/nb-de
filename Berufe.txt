@@ -1,0 +1,69 @@
+yrke :: Beruf
+arbeidsløs :: arbeitslos
+husmor {f} :: Hausfrau {f}
+karriere :: Karriere {f}
+advokat {m} :: Anwalt {m}
+sakfører {m} [veraltet] :: Rechtsanwalt {m}
+murer :: Maurer {m}
+arkitekt {m} :: Architekt {m}
+handverker {m} :: Handwerker {m}
+håndverksmester :: Meister {m}; Handwerksmeister {m}
+mesterbrev :: Meisterbrief {m}
+svenn :: Geselle {m}
+svennestykke :: Gesellenstück {n}
+lærling :: Lehrling {m}
+laug :: Zunft {f}
+buntmaker :: Kürschner {m}
+frisør :: Frisör {m}
+herrefrisør :: Herrenfrisör {m}
+blomsterdekoratør :: Florist {m}
+anleggsgartner :: Landschaftsgärtner {m}
+boktrykker :: Drucker {m}
+slakter :: Fleischer {m}; Metzger {m}
+skorsteinsfeier; feier :: Schornsteinfeger {m}; Kaminkehrer {m}
+kokk :: Koch {m}
+gullsmed :: Goldschmied {m}
+gravør :: Graveur {m}
+kunsthåndverk; kunsthandverk :: Kunsthandwerk {n}
+kunsthandverker :: Kunsthandwerker {m}
+konditor :: Konditor {m}
+skomaker :: Schumacher {m}; Schuster {m}
+skredder :: Schneider {m}
+smed :: Schmied {m}
+våpensmed :: Waffenschmied {m}
+steinfaget :: Steinmetz {m}
+sølvsmed :: Silberschmied {m}
+tanntekniker :: Zahntechniker {m}
+tømrer :: Zimmerer {m}; Zimmermann {m}
+handelsmann {m} :: Kaufmann {m}
+snekker {m} :: Tischler {m}; Schreiner {m}
+fisker :: Fischer {m}
+elektriker :: Elektriker {m}
+elev :: Schüler {m}
+student {m} :: Student {m}
+professor :: Professor {m}
+fotograf :: Fotograf {m}
+grafiker :: Grafiker {m}
+bøkker :: Küfer {m}
+illustratør :: Illustrator {m}
+jurist :: Jurist {m}
+mekaniker {m} :: Mechaniker {m}
+modell :: Modell {n}
+arbeider :: Arbeiter {m}
+urmaker :: Uhrmacher {m}
+maler :: Maler {m}
+kunstmaler :: Kunstmaler {m}
+kurvmaker :: Korbmacher {m}
+låsesmed :: Schlosser {m}
+møbeltapetserer :: Polsterer {m}
+rørlegger :: Installateur {m}
+salmaker :: Sattler {m}
+seilmaker :: Segelmacher {m}
+tekniker :: Techniker {m}
+sykepleier {m} :: Krankenschwester {f}
+sykepleier {m} :: Krankenpfleger {m}
+ingeniør {m} :: Ingenieur {m}
+funksjonær {m} :: Beamter {m}
+funksjonær {m} :: Angestellter {m}
+baker {m} :: Bäcker {m}
+lege {m} :: Arzt {m}

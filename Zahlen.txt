@@ -1,0 +1,43 @@
+en :: eins
+to :: zwei
+tre :: drei
+fire :: vier
+fem :: fünf
+seks :: sechs
+sju :: sieben
+åtte :: acht
+ni :: neun
+ti :: zehn
+elleve :: elf
+tolv :: zwölf
+tretten :: dreizehn
+fjorten :: vierzehn
+femten :: fünfzehn
+seksten :: sechzehn
+sytten :: siebzehn
+atten :: achtzehn
+nitten :: neunzehn
+tjue :: zwanzig
+tjue en :: einundzwanzig
+tjue to :: zweiundzwanzig
+tjue tre :: dreiundzwanzig
+tjue fire :: vierundzwanzig
+tretti :: dreißig
+tretti en :: einunddreißig
+tretti to :: zweiunddreißig
+tretti tre :: dreiunddreißig
+tretti fire :: vierunddreißig
+tretti fem :: fünfunddreißig
+førti :: vierzig
+femti :: fünfzig
+seksti :: sechzig
+sytti :: siebzig
+åtti :: achzig
+nitti :: neunzig
+hundre :: hundert, einhundert
+hundre og en :: hunderteins; einhunderteins; einhundertundeins
+hundre og to :: hundertzwei; einhundertzwei; einhundertundzwei
+hundre og ti :: hundertzehn; einhundertzehn; einhundertundzehn
+hundre og elleve :: hundertelf; einhundertelf; einhundertundelf
+hundre og tjue :: hundertzwanzig; einhundertzwanzig; einhunderundzwanzig
+hundre og tjue en :: hunderzeinundzwanzig; einhundereinundzwanzig; einhundertundeinundzwanzig
