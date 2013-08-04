@@ -32,12 +32,21 @@ førti :: vierzig
 femti :: fünfzig
 seksti :: sechzig
 sytti :: siebzig
-åtti :: achzig
+åtti :: achtzig
 nitti :: neunzig
-hundre :: hundert, einhundert
+hundre :: hundert; einhundert
 hundre og en :: hunderteins; einhunderteins; einhundertundeins
 hundre og to :: hundertzwei; einhundertzwei; einhundertundzwei
 hundre og ti :: hundertzehn; einhundertzehn; einhundertundzehn
 hundre og elleve :: hundertelf; einhundertelf; einhundertundelf
 hundre og tjue :: hundertzwanzig; einhundertzwanzig; einhunderundzwanzig
 hundre og tjue en :: hunderzeinundzwanzig; einhundereinundzwanzig; einhundertundeinundzwanzig
+to hundre :: zweihundert
+tre hundre :: dreihundert
+fire hundre :: vierhundert
+fem hundre :: fünfhundert
+seks hundre :: sechshundert
+sju hundre :: siebenhundert
+åtte hundre :: achthundert
+ni hundre :: neunhundert
+tusen :: tausend; eintausend

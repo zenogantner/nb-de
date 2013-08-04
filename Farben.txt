@@ -1,0 +1,13 @@
+farge {m} :: Farbe {f}
+blå :: blau
+fiolett :: violett
+grå :: grau
+grønn :: grün
+gul :: gelb
+hvit :: weiß
+lilla :: lila
+lyseblå :: hellblau
+mørkeblå :: dunkelblau
+oransje :: orange
+rød :: rot
+svart :: schwarz

@@ -1,0 +1,13 @@
+genser {m} :: Pullover {m}
+jakke {f} :: Jacke {f}
+bunad {m} :: Tracht {f}
+kofte {f} :: Strickjacke {f}
+t-skjorte {f} :: T-Shirt {n}
+skjorte {f} :: Hemd {n}
+skjerf {n} :: Schal {m}
+lue {f} :: Mütze {f}
+bukse {f} :: Hose {f}
+kjole {m} :: Kleid {n}
+skørt {n} :: Rock {m}
+sko {n} :: Schuh {m}
+sokk {m} :: Socke {f}
