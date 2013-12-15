@@ -1,0 +1,17 @@
+Australia :: Australien
+Belgia :: Belgien
+Danmark :. Dänemark
+Finland :: Finnland
+Frankrike :: Frankreich
+Hellas :: Griechenland
+Italia :: Italien
+Luxembourg :: Luxemburg
+Nederland :: Niederlande
+Norge :: Norwegen
+Østerrike :: Österreich
+Polen :: Polen
+Spania :: Spanien
+Sveits :: Schweiz
+Sverige :: Schweden
+Tsjekkia :: Tschechien
+Tyskland :: Deutschland
