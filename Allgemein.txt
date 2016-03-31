@@ -1,4 +1,5 @@
-svært [form.] :: sehr
-veldig :: sehr
-kjempe :: sehr
 for :: zu
+kjempe :: sehr
+svært [form.] :: sehr
+vanligvis :: normalerweise
+veldig :: sehr
