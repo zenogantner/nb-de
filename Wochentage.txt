@@ -1,0 +1,21 @@
+mandag :: Montag
+tirsdag :: Dienstag
+onsdag :: Mittwoch
+torsdag :: Donnerstag
+fredag :: Freitag
+lørdag :: Samstag; Sonnabend
+søndag :: Sonntag
+på mandag :: am Montag
+på tirsdag :: am Dienstag
+på onsdag :: am Mittwoch
+på torsdag :: am Donnerstag
+på fredag :: am Freitag
+på lørdag :: am Samstag; am Sonnabend
+på søndag :: am Sonntag
+på mandager :: montags
+på tirsdager :: dienstags
+på onsdager :: mittwochs
+på torsdager :: donnerstags
+på fredager :: freitags
+på lørdager :: samstags; sonnabends
+på søndager :: sonntags
